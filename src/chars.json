@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Peter",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Peter_Griffin.png/220px-Peter_Griffin.png",
+        "clicked": false
+      },
+      {
+        "id": 2,
+        "name": "Stewie",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Stewie_Griffin.png/220px-Stewie_Griffin.png",
+        "clicked": false
+      },
+      {
+        "id": 3,
+        "name": "Meg",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Meg_Griffin.png/185px-Meg_Griffin.png",
+        "clicked": false
+      },
+      {
+        "id": 4,
+        "name": "Lois",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Lois_Griffin.png/170px-Lois_Griffin.png",
+        "clicked": false
+      },
+      {
+        "id": 5,
+        "name": "Brian",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Brian_Griffin.png/195px-Brian_Griffin.png",
+        "clicked": false
+      },
+      {
+        "id": 6,
+        "name": "Chris",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Chris_Griffin.png/220px-Chris_Griffin.png",
+        "clicked": false
+      },
+      {
+        "id": 7,
+        "name": "Cleveland",
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Cleveland_Brown.png",
+        "clicked": false
+      },
+      {
+        "id": 8,
+        "name": "Quagmire",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Glenn_Quagmire.png/220px-Glenn_Quagmire.png",
+        "clicked": false
+      },
+      {
+        "id": 9,
+        "name": "Joe",
+        "image": "https://vignette.wikia.nocookie.net/familyguy/images/9/9c/190px-Joe_Swanson.png/revision/latest?cb=20100326012234",
+        "clicked": false
+      },
+      {
+        "id": 10,
+        "name": "Tom Tucker",
+        "image": "https://giantbomb1.cbsistatic.com/uploads/scale_medium/16/164924/2809468-7422095285-wSbAqy.jpeg",
+        "clicked": false
+      },
+      {
+        "id": 11,
+        "name": "Rupert",
+        "image": "https://vignette.wikia.nocookie.net/familyguy/images/5/50/FGRupert.jpg/revision/latest/top-crop/width/360/height/360?cb=20130619210324",
+        "clicked": false
+      },
+      {
+        "id": 12,
+        "name": "Bonnie",
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/family-guy/e/ec/Bonnie.jpg?width=325",
+        "clicked": false
+      }
+]
