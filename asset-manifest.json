@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/KingLard/React-Memory-Game/static/css/main.f7750025.chunk.css",
-    "main.js": "/KingLard/React-Memory-Game/static/js/main.7216a93c.chunk.js",
-    "main.js.map": "/KingLard/React-Memory-Game/static/js/main.7216a93c.chunk.js.map",
-    "runtime-main.js": "/KingLard/React-Memory-Game/static/js/runtime-main.e26fe1e8.js",
-    "runtime-main.js.map": "/KingLard/React-Memory-Game/static/js/runtime-main.e26fe1e8.js.map",
-    "static/js/2.ecd27503.chunk.js": "/KingLard/React-Memory-Game/static/js/2.ecd27503.chunk.js",
-    "static/js/2.ecd27503.chunk.js.map": "/KingLard/React-Memory-Game/static/js/2.ecd27503.chunk.js.map",
-    "index.html": "/KingLard/React-Memory-Game/index.html",
-    "precache-manifest.7528b169b2b058ea57ef1ac4c1b50bcd.js": "/KingLard/React-Memory-Game/precache-manifest.7528b169b2b058ea57ef1ac4c1b50bcd.js",
-    "service-worker.js": "/KingLard/React-Memory-Game/service-worker.js",
-    "static/css/main.f7750025.chunk.css.map": "/KingLard/React-Memory-Game/static/css/main.f7750025.chunk.css.map",
-    "static/js/2.ecd27503.chunk.js.LICENSE.txt": "/KingLard/React-Memory-Game/static/js/2.ecd27503.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/KingLard/React-Memory-Game/static/media/cloud-background.0dca5f0d.jpg"
+    "main.css": "/React-Game/static/css/main.cd3176d8.chunk.css",
+    "main.js": "/React-Game/static/js/main.aedc12e6.chunk.js",
+    "main.js.map": "/React-Game/static/js/main.aedc12e6.chunk.js.map",
+    "runtime-main.js": "/React-Game/static/js/runtime-main.8e860718.js",
+    "runtime-main.js.map": "/React-Game/static/js/runtime-main.8e860718.js.map",
+    "static/js/2.ecd27503.chunk.js": "/React-Game/static/js/2.ecd27503.chunk.js",
+    "static/js/2.ecd27503.chunk.js.map": "/React-Game/static/js/2.ecd27503.chunk.js.map",
+    "index.html": "/React-Game/index.html",
+    "precache-manifest.a45fca65717b6c10c31b4621bea1c013.js": "/React-Game/precache-manifest.a45fca65717b6c10c31b4621bea1c013.js",
+    "service-worker.js": "/React-Game/service-worker.js",
+    "static/css/main.cd3176d8.chunk.css.map": "/React-Game/static/css/main.cd3176d8.chunk.css.map",
+    "static/js/2.ecd27503.chunk.js.LICENSE.txt": "/React-Game/static/js/2.ecd27503.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-Game/static/media/cloud-background.0dca5f0d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e26fe1e8.js",
+    "static/js/runtime-main.8e860718.js",
     "static/js/2.ecd27503.chunk.js",
-    "static/css/main.f7750025.chunk.css",
-    "static/js/main.7216a93c.chunk.js"
+    "static/css/main.cd3176d8.chunk.css",
+    "static/js/main.aedc12e6.chunk.js"
   ]
 }
