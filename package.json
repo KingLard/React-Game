@@ -2,7 +2,7 @@
   "name": "react-memory-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KingLard.github.io/React-Memory-Game",
+  "homepage": "https://kinglard.github.io/React-Game/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
